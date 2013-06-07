@@ -1,9 +1,6 @@
 /*!
- * avgrund 0.1
- * http://lab.hakim.se/avgrund
- * MIT licensed
- *
- * Copyright (C) 2012 Hakim El Hattab, http://hakim.se
+ *This is a fork of avgrund 0.1 on github
+ *This version is optimized for youtube embed codes
  */
 var Avgrund = (function(){
 
